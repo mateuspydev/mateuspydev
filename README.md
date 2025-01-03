@@ -1,16 +1,14 @@
-## Hi there 👋
+## Welcome 😀
 
-<!--
-**mateuspydev/mateuspydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-I'm Mateus, I'm 17 years old
 
-Here are some ideas to get you started:
+-I'm a Systems Analysis and Development student, and I'm looking for an internship to start building my experience in this area early
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-I'm finding for backend projects
+
+-I have knowledge of Python
+
+-IDEs: Jupyter and Visual Studio Code
+
+-Libraries: Anaconda, Pandas and Selenium
+          
